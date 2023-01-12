@@ -2,7 +2,7 @@
 Olá, eu sou o Renato Silva, desenvolvedor e entusiasta por tecnologia!
 </h2>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/renatodev0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatodev0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatodev0&layout=compact&langs_count=6&theme=tokyonight"/>
@@ -22,7 +22,7 @@ Olá, eu sou o Renato Silva, desenvolvedor e entusiasta por tecnologia!
   <img align="center" alt="Rails" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg">
 </div>
   
-  ##
+  ## -->
  
 <div> 
     <a align="center" href="https://www.linkedin.com/in/dev-renato-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
